@@ -1,15 +1,15 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://angi2412.github.io',
-  title: 'AH.',
+  title: 'AM.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'Angelina Horn',
-  role: 'DevOps Engineer',
+  name: 'Angelina Mohr',
+  role: 'Software Engineer',
   description:
-    'I am a DevOps Engineer from Germany with a passion for building and maintaining scalable, secure, and reliable systems. I have a M.Sc. in computer science and have a passion for learning new technologies.',
+    'I am a Sofware Engineer from Germany with a passion for building and maintaining scalable, secure, and reliable systems. I have a M.Sc. in computer science and have a passion for learning new technologies.',
   social: {
     linkedin: 'https://www.linkedin.com/in/angelina-horn-25341963/',
     github: 'https://github.com/angi2412',
@@ -42,7 +42,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'horn.angelina96@gmail.com',
+  email: 'angelina.mohr@icloud.com',
 }
 
 export { header, about, projects, skills, contact }
